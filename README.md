@@ -51,3 +51,5 @@ strace -f -yy -e trace=network -p PID
 ### Почитать
 
 Книга [High Performance Browser Networking by ILYA GRIGORIK](https://hpbn.co/)
+
+Схема состояний TCP [TCP/IP State Transition Diagram (RFC793)](http://www.cs.northwestern.edu/~agupta/cs340/project2/TCPIP_State_Transition_Diagram.pdf)
