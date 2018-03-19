@@ -1,6 +1,8 @@
 Secon 2018 Забег по типичным граблям TCP приложений в Linux
 ============================================================
 
+[**Слайды**](slides_tcp_secon2018_final.pdf)
+
 Потерять данные в TCP
 
 [TCP Is Not Reliable](https://blog.h2o.ai/2013/08/tcp-is-not-reliable/)
