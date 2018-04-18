@@ -3,6 +3,8 @@ Secon 2018 Забег по типичным граблям TCP приложен�
 
 [**Слайды**](slides_tcp_secon2018_final.pdf)
 
+[**Video**](https://www.youtube.com/watch?v=yZUXb4YxiBE)
+
 Потерять данные в TCP
 
 [TCP Is Not Reliable](https://blog.h2o.ai/2013/08/tcp-is-not-reliable/)
