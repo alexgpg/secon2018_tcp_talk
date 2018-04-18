@@ -32,6 +32,10 @@ ps -eF|grep myapp
 strace -f -yy -e trace=network -p PID
 ~~~
 
+### "Шаталки соединений" эмуляция плохой сети
+
+[Comcast: Simulating shitty network connections](https://github.com/tylertreat/comcast)
+
 ### Трассировщики eBPF
 
 [Что такое eBPF](http://www.brendangregg.com/ebpf.html)
